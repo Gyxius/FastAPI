@@ -5,5 +5,5 @@ cloudscraper==1.2.71
 beautifulsoup4==4.13.3
 numpy==1.26.4
 requests==2.32.3
-tensorflow==2.18.0
+tensorflow==2.15.0
 keras==3.6.0
