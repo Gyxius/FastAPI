@@ -18,4 +18,4 @@ venv/
 .DS_Store
 
 # Render / deployment
-*.log
+*.logtokenizer.json
