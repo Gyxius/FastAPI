@@ -30,7 +30,8 @@ async def read_item(skip: int = 0, limit: int = 10):
 
 @app.get("/model/")
 async def read_sentence(sentence: str = ''):
-    emotion = predict_sentiment(sentence)
+    emotion = "MODEL NOT WORKING"
+    # emotion = predict_sentiment(sentence)
     return {"emotion": emotion}
 
 @app.get("/time/")
