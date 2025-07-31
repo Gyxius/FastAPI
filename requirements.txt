@@ -1,9 +1,9 @@
 fastapi==0.116.0
 uvicorn==0.35.0
 orjson==3.10.15
-aiohttp==3.11.13
-python-multipart==0.0.20
-pydantic==2.10.6
-spacy==3.8.4
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
-fr_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.8.0/fr_core_news_sm-3.8.0-py3-none-any.whl
+cloudscraper==1.2.71
+beautifulsoup4==4.13.3
+numpy==1.26.4
+requests==2.32.3
+tensorflow==2.18.0
+keras==3.6.0
