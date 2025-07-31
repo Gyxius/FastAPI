@@ -10,7 +10,6 @@ venv/
 
 # Model files (optional — large/binary files)
 *.keras
-*.pkl
 
 # Jupyter Notebook outputs (optional)
 *.ipynb
