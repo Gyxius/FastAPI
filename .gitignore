@@ -19,3 +19,4 @@ venv/
 
 # Render / deployment
 *.logtokenizer.json
+tokenizer.json
