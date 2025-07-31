@@ -17,7 +17,7 @@ bertopic==0.16.4
 black==25.1.0
 bleach==6.1.0
 blinker==1.7.0
-blis==1.2.0
+blis==0.7.9
 boto3==1.34.105
 botocore==1.34.105
 box2d-py==2.3.5
