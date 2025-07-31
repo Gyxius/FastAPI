@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Model files (optional — large/binary files)
+*.keras
+*.pkl
+
+# Jupyter Notebook outputs (optional)
+*.ipynb
+
+# System files
+.DS_Store
+
+# Render / deployment
+*.log
